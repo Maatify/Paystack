@@ -1,10 +1,21 @@
 <?php
 /**
- * Created by Maatify.dev
- * User: Maatify.dev
- * Date: 2023-07-24
- * Time: 8:50 PM
- * https://www.Maatify.dev
+ * @copyright   ©2023 Maatify.dev
+ * @Liberary    PayStack
+ * @Project     PayStack
+ * @author      Mohamed Abdulalim (megyptm) <mohamed@maatify.dev>
+ * @since       2023-07-24 8:50 PM
+ * @see         https://www.maatify.dev Maatify.com
+ * @link        https://github.com/Maatify/PayStack  view project on GitHub
+ * @link        https://github.com/Maatify/Logger (maatify/logger)
+ * @copyright   ©2023 Maatify.dev
+ * @note        This Project using for PayStack API.
+ * @note        This Project extends other libraries maatify/logger.
+ *
+ * @note        This program is distributed in the hope that it will be useful - WITHOUT
+ * ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
+ * FITNESS FOR A PARTICULAR PURPOSE.
+ *
  */
 
 namespace Maatify\PayStack\Subscriptions;
