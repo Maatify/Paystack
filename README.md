@@ -24,7 +24,7 @@ $caller_object = $pay_stack->Transaction()->Initialize(); // transaction Initial
 $result = $caller_object
 ->SetOptional(__key__, __val__)
 ->SetOptional(__key__, __val__)
-->Initialize(__CUSTOMER_EMAIL__, __AMOUNT_IN_CENT__);
+->Execute(__CUSTOMER_EMAIL__, __AMOUNT_IN_CENT__);
 ```
 - 2nd 
 ```php
@@ -33,7 +33,7 @@ $result = $caller_object->SetAllOptionalAsArray([
 __key1__ => __val1__, 
 __key2__ => __val2__, 
 ])
-->Initialize(__CUSTOMER_EMAIL__, __AMOUNT_IN_CENT__);
+->Execute(__CUSTOMER_EMAIL__, __AMOUNT_IN_CENT__);
 ```
 #
 ## Transactions Example
