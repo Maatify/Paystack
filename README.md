@@ -46,7 +46,7 @@ __key2__ => __val2__,
 #
 ## Plans Example
 - The Plans API allows you create and manage installment payment options on your integration.
-- ✨ examples: [Subscriptions.md](Subscriptions.md) ✨
+- ✨ examples: [Plans.md](Plans.md) ✨
 #
 ## Subscriptions Example
 - The Subscriptions API allows you create and manage recurring payment on your integration.
